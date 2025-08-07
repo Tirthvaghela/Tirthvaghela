@@ -34,5 +34,5 @@
 - 🔗 LinkedIn: *https://www.linkedin.com/in/Tirthvaghela/* 
 
 ---
-
+- “Code is poetry, and every project is a story worth telling.”
 <!-- Feel free to update or expand it anytime! -->

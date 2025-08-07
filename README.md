@@ -42,7 +42,7 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 - 🌐 Launch a **personal portfolio website** (coming soon!)
 
 ---
-s
+
 ---
 
 ### 🎨 Hobbies & Interests

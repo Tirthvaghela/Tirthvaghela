@@ -1,38 +1,56 @@
-# 👋 Hi, I'm Tirth Vaghela
+# 👋 Hey there, I'm Tirth Vaghela
 
-🎓 I'm currently a 4th-year Integrated Master's student (IMSCIT) at **GLS University**.  
-💻 I'm passionate about **software development**, especially in **Full-Stack Development**.
-
-## 🛠️ Technologies & Languages
-
-- C
-- Python
-- Java
-- Next.js
-- Currently learning React
-
-## 💡 Projects
-
-- **URBAN SIGNAL**  
-  Smart Traffic Lights system using AI for real-time vehicle detection and intelligent traffic management.
-
-## 🎯 Interests
-
-- 💻 Coding and building smart solutions  
-- 🎬 Video Editing  
-- 🎨 Drawing and digital art  
-
-## 📈 GitHub Stats
-
-<!-- You can customize these using GitHub Readme Stats or other widgets -->
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirthvaghela&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvaghela&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-
-- 📧 Email: *vaghelatirth719@gmail.com*
-- 🔗 LinkedIn: *https://www.linkedin.com/in/Tirthvaghela/* 
+I'm a passionate **Full-Stack Developer** and a 4th-year IMSCIT student at **GLS University**.  
+I enjoy solving real-world problems with code, designing smart systems, and turning ideas into working software.
 
 ---
-- “Code is poetry, and every project is a story worth telling.”
-<!-- Feel free to update or expand it anytime! -->
+
+### _Experience | Innovation | Smart Solutions_
+
+---
+
+### 💼 What I Do
+
+- **Full-Stack Development** – Building both frontend and backend applications  
+- **Smart Projects** – Integrating AI and IoT for automation & optimization  
+- **Learning and Growing** – Always curious to explore new tools and technologies  
+
+---
+
+### 🛠️ Tools & Technologies I Use
+
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+
+---
+
+### 📚 Currently Learning
+
+- Mastering **React.js** and modern frontend workflows  
+- Exploring **AI integration** with web systems  
+- Diving deeper into **system design & architecture**
+
+---
+
+### 🎯 Goals
+
+- 🚀 Land a role as a **Full-Stack Developer** or **AI-focused Developer**  
+- 💡 Keep building meaningful projects like **Urban Signal**  
+- 🌐 Launch a **personal portfolio website** (coming soon!)
+
+---
+
+### 💬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tirthvaghela)  
+<!-- Add your actual LinkedIn or portfolio above -->
+
+---
+
+> *“Design is intelligence made visible.” – Alina Wheeler*  
+> _Thanks for stopping by._  
+> _Let’s build something amazing together._
+

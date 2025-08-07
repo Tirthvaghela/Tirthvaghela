@@ -42,6 +42,19 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 - 🌐 Launch a **personal portfolio website** (coming soon!)
 
 ---
+s
+---
+
+### 🎨 Hobbies & Interests
+
+- 🎬 Video Editing – Creating smooth edits and motion content  
+- 🎨 Drawing – Sketching concepts and creative illustrations  
+- 🎸 Playing Guitar – Strumming tunes and relaxing with music  
+- 🧠 Exploring new tech – Always experimenting with tools and frameworks  
+- 🎵 Listening to music while coding (because vibe matters!)
+
+---
+
 
 ### 💬 Let’s Connect
 
@@ -51,6 +64,7 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 ---
 
 > *“Design is intelligence made visible.” – Alina Wheeler*  
-> _Thanks for stopping by._  
-> _Let’s build something amazing together._
+
+Thanks for stopping by._  
+Let’s build something amazing together._
 

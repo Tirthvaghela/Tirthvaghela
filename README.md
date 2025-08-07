@@ -17,13 +17,14 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 
 ---
 
-### 🛠️ Tools & Technologies I Use
+### 🧠 Languages & Technologies I Know
 
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tirth Vaghela
+# Hey there, I'm Tirth Vaghela
 
 I'm a passionate **Full-Stack Developer** and a 4th-year IMSCIT student at **GLS University**.  
 I enjoy solving real-world problems with code, designing smart systems, and turning ideas into working software.
@@ -9,7 +9,7 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 
 ---
 
-### 💼 What I Do
+### What I Do
 
 - **Full-Stack Development** – Building both frontend and backend applications  
 - **Smart Projects** – Integrating AI and IoT for automation & optimization  
@@ -17,7 +17,7 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 
 ---
 
-### 🧠 Languages & Technologies I Know
+### Languages & Technologies I Know
 
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
@@ -28,7 +28,7 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 - Mastering **React.js** and modern frontend workflows  
 - Exploring **AI integration** with web systems  
@@ -36,17 +36,17 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 
 ---
 
-### 🎯 Goals
+### Goals
 
-- 🚀 Land a role as a **Full-Stack Developer** or **AI-focused Developer**  
-- 💡 Keep building meaningful projects like **Urban Signal**  
-- 🌐 Launch a **personal portfolio website** (coming soon!)
-
----
+- Land a role as a **Full-Stack Developer** or **AI-focused Developer**  
+- Keep building meaningful projects like **Urban Signal**  
+- Launch a **personal portfolio website** (coming soon!)
 
 ---
 
-### 🎨 Hobbies & Interests
+---
+
+### Hobbies & Interests
 
 - 🎬 Video Editing – Creating smooth edits and motion content  
 - 🎨 Drawing – Sketching concepts and creative illustrations  
@@ -57,7 +57,7 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 ---
 
 
-### 💬 Let’s Connect
+### Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tirthvaghela)  
 <!-- Add your actual LinkedIn or portfolio above -->
@@ -65,7 +65,3 @@ I enjoy solving real-world problems with code, designing smart systems, and turn
 ---
 
 > *“Design is intelligence made visible.” – Alina Wheeler*  
-
-Thanks for stopping by._  
-Let’s build something amazing together._
-

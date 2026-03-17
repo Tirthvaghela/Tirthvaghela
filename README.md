@@ -1,67 +1,91 @@
-# Hey there, I'm Tirth Vaghela
+<h1 align="center">Hey, I'm Tirth Vaghela 👋</h1>
 
-I'm a passionate **Full-Stack Developer** and a 4th-year IMSCIT student at **GLS University**.  
-I enjoy solving real-world problems with code, designing smart systems, and turning ideas into working software.
+<p align="center">
+  Full-Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; IMSc IT @ GLS University (2022–2027)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tirthvaghela/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Tirthvaghela"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" /></a>
+  <a href="mailto:vaghelatirth719@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://tirth-portfolio-htko.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-### _Experience | Innovation | Smart Solutions_
+I'm a 4th-year IMSc IT student from Ahmedabad, India. I build full-stack web apps, AI-powered systems, and mobile applications — turning real-world problems into working software.
 
 ---
 
 ### What I Do
 
-- **Full-Stack Development** – Building both frontend and backend applications  
-- **Smart Projects** – Integrating AI and IoT for automation & optimization  
-- **Learning and Growing** – Always curious to explore new tools and technologies  
+- **Full-Stack Development** – React, Next.js, Django, Flask, Node.js, FastAPI
+- **AI / ML Systems** – YOLOv8, OpenCV, DeepFace, ArcFace — real-world computer vision
+- **Mobile Apps** – Flutter with Node.js backends
+- **Always Learning** – System design, AI integration, modern web architecture
 
 ---
 
-### Languages & Technologies I Know
+### Tech Stack
 
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
+**Languages**
+
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
+
+**Frontend**
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwindcss)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
 
+**Backend**
 
----
+![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
 
-### Currently Learning
+**Databases & Tools**
 
-- Mastering **React.js** and modern frontend workflows  
-- Exploring **AI integration** with web systems  
-- Diving deeper into **system design & architecture**
-
----
-
-### Goals
-
-- Land a role as a **Full-Stack Developer** or **AI-focused Developer**  
-- Keep building meaningful projects like **Urban Signal**  
-- Launch a **personal portfolio website** (coming soon!)
-
----
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
 
 ---
 
-### Hobbies & Interests
+### Featured Projects
 
-- 🎬 Video Editing – Creating smooth edits and motion content  
-- 🎨 Drawing – Sketching concepts and creative illustrations  
-- 🎸 Playing Guitar – Strumming tunes and relaxing with music  
-- 🧠 Exploring new tech – Always experimenting with tools and frameworks  
-- 🎵 Listening to music while coding (because vibe matters!)
-
----
-
-
-### Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tirthvaghela)  
-<!-- Add your actual LinkedIn or portfolio above -->
+| Project | Description | Stack |
+|---|---|---|
+| **Urban Signal** | AI traffic management with real-time signal optimization & emergency vehicle detection | Next.js, Flask, YOLOv4, OpenCV |
+| **RIGS** | Helmet detection + automated e-challan with license plate recognition | React, YOLOv8, Node.js, OCR |
+| **Wedding Face Finder** | AI face recognition to find people across large photo collections | Flask, DeepFace, ArcFace |
+| **Vois** | Full-stack social media platform with feed, follow system & JWT auth | React, FastAPI, MongoDB |
+| **Electrox** | Mobile digital voting app with role-based access & election lifecycle | Flutter, Node.js, MongoDB |
+| **EventEase** | College event management with RSVP, capacity tracking & email notifications | Django, REST APIs, SQLite |
+| **FreshVault** | Local grocery e-commerce with cart, wishlist & admin dashboard | PHP, MySQL, Tailwind CSS |
+| **Electrox Web** | Secure web voting platform with audit logging & analytics | React, Flask, MongoDB |
 
 ---
 
-> *“Design is intelligence made visible.” – Alina Wheeler*  
+### Experience
+
+**Full-Stack Web Development Intern** — Prodigy InfoTech *(Remote, 02/2026)*
+- Built responsive web interfaces and integrated REST APIs
+- Implemented secure authentication systems
+- Worked with real-world development workflows and version control
+
+---
+
+### Hobbies
+
+🎬 Video Editing &nbsp;·&nbsp; 🎨 Drawing &nbsp;·&nbsp; 🎸 Guitar &nbsp;·&nbsp; 🧠 Exploring new tech &nbsp;·&nbsp; 🎵 Music while coding
+
+---
+
+> *"Design is intelligence made visible." – Alina Wheeler*

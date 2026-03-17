@@ -1,91 +1,113 @@
-<h1 align="center">Hey, I'm Tirth Vaghela 👋</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; IMSc IT @ GLS University (2022–2027)
-</p>
+# Tirth Vaghela
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tirthvaghela/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Tirthvaghela"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" /></a>
-  <a href="mailto:vaghelatirth719@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-htko.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-111?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+**Full-Stack Developer · AI/ML Engineer · IMSc IT @ GLS University**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-htko.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirthvaghela/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tirthvaghela)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaghelatirth719@gmail.com)
 
-I'm a 4th-year IMSc IT student from Ahmedabad, India. I build full-stack web apps, AI-powered systems, and mobile applications — turning real-world problems into working software.
+</div>
 
 ---
 
-### What I Do
-
-- **Full-Stack Development** – React, Next.js, Django, Flask, Node.js, FastAPI
-- **AI / ML Systems** – YOLOv8, OpenCV, DeepFace, ArcFace — real-world computer vision
-- **Mobile Apps** – Flutter with Node.js backends
-- **Always Learning** – System design, AI integration, modern web architecture
+4th-year IMSc IT student from Ahmedabad, India. I build full-stack web apps, AI-powered systems, and mobile applications — focused on turning real-world problems into clean, working software.
 
 ---
 
-### Tech Stack
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
 
 **Languages**
+- Python
+- JavaScript / TypeScript
+- SQL
+- Dart
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
+</td>
+<td valign="top" width="25%">
 
 **Frontend**
+- React · Next.js
+- Tailwind CSS
+- Flutter
+- HTML / CSS
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwindcss)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
+</td>
+<td valign="top" width="25%">
 
 **Backend**
+- Django · Flask
+- Node.js · FastAPI
+- REST APIs
+- JWT Auth
 
-![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
+</td>
+<td valign="top" width="25%">
 
 **Databases & Tools**
+- MongoDB · MySQL · SQLite
+- Git · GitHub · Vercel
+- OpenCV · YOLOv8
+- DeepFace · ArcFace
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
+</td>
+</tr>
+</table>
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **Urban Signal** | AI traffic management with real-time signal optimization & emergency vehicle detection | Next.js, Flask, YOLOv4, OpenCV |
-| **RIGS** | Helmet detection + automated e-challan with license plate recognition | React, YOLOv8, Node.js, OCR |
-| **Wedding Face Finder** | AI face recognition to find people across large photo collections | Flask, DeepFace, ArcFace |
-| **Vois** | Full-stack social media platform with feed, follow system & JWT auth | React, FastAPI, MongoDB |
-| **Electrox** | Mobile digital voting app with role-based access & election lifecycle | Flutter, Node.js, MongoDB |
-| **EventEase** | College event management with RSVP, capacity tracking & email notifications | Django, REST APIs, SQLite |
-| **FreshVault** | Local grocery e-commerce with cart, wishlist & admin dashboard | PHP, MySQL, Tailwind CSS |
-| **Electrox Web** | Secure web voting platform with audit logging & analytics | React, Flask, MongoDB |
+| [**Urban Signal**](#) | AI traffic management — real-time signal optimization & emergency vehicle detection | Next.js · Flask · YOLOv4 · OpenCV |
+| [**RIGS**](#) | Helmet detection + automated e-challan with license plate recognition | React · YOLOv8 · Node.js · OCR |
+| [**Wedding Face Finder**](#) | AI face recognition to find people across large photo collections | Flask · DeepFace · ArcFace |
+| [**Vois**](#) | Full-stack social media — posts, feed, follow system & JWT auth | React · FastAPI · MongoDB |
+| [**Electrox**](#) | Mobile digital voting with role-based access & full election lifecycle | Flutter · Node.js · MongoDB |
+| [**EventEase**](#) | College event management — RSVP, capacity tracking & email notifications | Django · REST APIs · SQLite |
+| [**FreshVault**](#) | Local grocery e-commerce — cart, wishlist & admin dashboard | PHP · MySQL · Tailwind CSS |
+| [**Electrox Web**](#) | Secure web voting platform with audit logging & analytics | React · Flask · MongoDB |
 
 ---
 
-### Experience
+## Experience
 
-**Full-Stack Web Development Intern** — Prodigy InfoTech *(Remote, 02/2026)*
-- Built responsive web interfaces and integrated REST APIs
-- Implemented secure authentication systems
-- Worked with real-world development workflows and version control
+**Full-Stack Web Development Intern** · Prodigy InfoTech · *Remote · Feb 2026*
+
+- Built responsive web interfaces using HTML, CSS, JavaScript and modern frontend practices
+- Integrated REST APIs and developed backend functionality for dynamic web applications
+- Implemented secure user authentication and improved application performance
+- Worked with real-world development workflows and version control tools
 
 ---
 
-### Hobbies
+## GitHub Stats
+
+<div align="center">
+
+![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tirthvaghela&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthvaghela&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## Outside of Code
 
 🎬 Video Editing &nbsp;·&nbsp; 🎨 Drawing &nbsp;·&nbsp; 🎸 Guitar &nbsp;·&nbsp; 🧠 Exploring new tech &nbsp;·&nbsp; 🎵 Music while coding
 
 ---
 
-> *"Design is intelligence made visible." – Alina Wheeler*
+<div align="center">
+
+*"Design is intelligence made visible." — Alina Wheeler*
+
+</div>

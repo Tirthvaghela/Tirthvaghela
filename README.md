@@ -1,113 +1,102 @@
 <div align="center">
 
-# Tirth Vaghela
+# ⚡ Tirth Vaghela
 
-**Full-Stack Developer · AI/ML Engineer · IMSc IT @ GLS University**
+<a href="https://tirthvaghela.in/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/tirthvaghela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Tirthvaghela"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:vaghelatirth719@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tirthvaghela.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirthvaghela/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tirthvaghela)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaghelatirth719@gmail.com)
+<br/>
+
+<!-- Modern Typing Animation for Roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Computer+Vision+Enthusiast" alt="Typing SVG" />
+
+<p align="center">
+  🚀 4th-year IMSc IT student from Ahmedabad, India. <br/>
+  Focused on building high-performance web systems, production AI architectures, and intelligent automation.
+</p>
 
 </div>
 
 ---
 
-4th-year IMSc IT student from Ahmedabad, India. I build full-stack web apps, AI-powered systems, and mobile applications — focused on turning real-world problems into clean, working software.
+### 🛠️ Tech Stack & Ecosystem
+
+Using standard markdown text grids can sometimes look scattered. This unified visual icon group keeps things perfectly scannable and standardized.
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart" alt="Languages" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css" alt="Frontend" />
+  <br/>
+  <!-- Backend & DB -->
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi,mongodb,mysql,sqlite" alt="Backend & Databases" />
+  <br/>
+  <!-- Tools & Vision -->
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,opencv" alt="Tools & Vision" />
+</p>
 
 ---
 
-## Tech Stack
+### 💻 Featured Deployments & Systems
+
+> [!NOTE]
+> Below are engineered applications prioritizing scalable architecture, computer vision models, and robust auth patterns.
 
 <table>
-<tr>
-<td valign="top" width="25%">
-
-**Languages**
-- Python
-- JavaScript / TypeScript
-- SQL
-- Dart
-
-</td>
-<td valign="top" width="25%">
-
-**Frontend**
-- React · Next.js
-- Tailwind CSS
-- Flutter
-- HTML / CSS
-
-</td>
-<td valign="top" width="25%">
-
-**Backend**
-- Django · Flask
-- Node.js · FastAPI
-- REST APIs
-- JWT Auth
-
-</td>
-<td valign="top" width="25%">
-
-**Databases & Tools**
-- MongoDB · MySQL · SQLite
-- Git · GitHub · Vercel
-- OpenCV · YOLOv8
-- DeepFace · ArcFace
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Computer Vision Initiative</h4>
+      <ul>
+        <li><b>Urban Signal:</b> Dynamic real-time traffic signal optimization and automated emergency vehicle preemption routing. <br/><i>(Next.js · Flask · YOLOv4 · OpenCV)</i></li>
+        <li><b>RIGS:</b> Smart helmet compliance checker + deep-learning edge vehicle recognition system for automated e-challan systems. <br/><i>(React · YOLOv8 · Node.js · OCR)</i></li>
+        <li><b>Wedding Face Finder:</b> High-throughput deep face clustering engine to query individuals over thousands of unorganized raw high-res images. <br/><i>(Flask · DeepFace · ArcFace)</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Web & Mobile Architectures</h4>
+      <ul>
+        <li><b>VibeStream:</b> Social distribution system complete with real-time reactive feeds, customized multi-relational follow layers, and cryptographically signed JWT auth. <br/><i>(React · FastAPI · MongoDB)</i></li>
+        <li><b>Electrox Systems:</b> Secure mobile/web parallel casting ledger with comprehensive role-isolated permissions and deep audit log analytics. <br/><i>(Flutter · React · Node.js · Flask)</i></li>
+        <li><b>CivicWatch:</b> Public crowd-sourced civic issue utility featuring geographic photo logging and lifecycle state updates. <br/><i>(React · Node.js · Express · MongoDB)</i></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## Featured Projects
+### 📈 GitHub Analytics & Engine Room
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Urban Signal**](#) | AI traffic management — real-time signal optimization & emergency vehicle detection | Next.js · Flask · YOLOv4 · OpenCV |
-| [**RIGS**](#) | Helmet detection + automated e-challan with license plate recognition | React · YOLOv8 · Node.js · OCR |
-| [**Wedding Face Finder**](#) | AI face recognition to find people across large photo collections | Flask · DeepFace · ArcFace |
-| [**Vois**](#) | Full-stack social media — posts, feed, follow system & JWT auth | React · FastAPI · MongoDB |
-| [**Electrox**](#) | Mobile digital voting with role-based access & full election lifecycle | Flutter · Node.js · MongoDB |
-| [**EventEase**](#) | College event management — RSVP, capacity tracking & email notifications | Django · REST APIs · SQLite |
-| [**FreshVault**](#) | Local grocery e-commerce — cart, wishlist & admin dashboard | PHP · MySQL · Tailwind CSS |
-| [**Electrox Web**](#) | Secure web voting platform with audit logging & analytics | React · Flask · MongoDB |
+Aligning your dynamic analytical data cards horizontally keeps the profile looking compact and intentionally structured.
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tirthvaghela&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthvaghela&layout=compact&theme=github_dark&hide_border=true" width="45%" alt="Top Languages" />
+</p>
 
-## Experience
-
-**Full-Stack Web Development Intern** · Prodigy InfoTech · *Remote · Feb 2026*
-
-- Built responsive web interfaces using HTML, CSS, JavaScript and modern frontend practices
-- Integrated REST APIs and developed backend functionality for dynamic web applications
-- Implemented secure user authentication and improved application performance
-- Worked with real-world development workflows and version control tools
+<p align="center">
+  <!-- Optional: Streak card to showcase developer consistency -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirthvaghela&theme=github_dark&hide_border=true" width="94%" alt="GitHub Streak" />
+</p>
 
 ---
 
-## GitHub Stats
+### 👔 Experience
 
-<div align="center">
-
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tirthvaghela&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthvaghela&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+⚡ **Full-Stack Web Development Intern** — *Prodigy InfoTech (Remote | Feb 2026)*
+* Architected highly responsive client-side UI workflows utilizing modern ES6+ Javascript standards.
+* Implemented secure back-end communication nodes, resolving core operational data lag across REST API endpoints.
 
 ---
 
-## Outside of Code
+### 🎨 Beyond the Workspace
 
-🎬 Video Editing &nbsp;·&nbsp; 🎨 Drawing &nbsp;·&nbsp; 🎸 Guitar &nbsp;·&nbsp; 🧠 Exploring new tech &nbsp;·&nbsp; 🎵 Music while coding
-
----
-
-<div align="center">
-
-*"Design is intelligence made visible." — Alina Wheeler*
-
-</div>
+```text
+🎸 Distilling code logic through heavy guitar riffs
+🎬 Crafting stories visually with fluid cinematic video timelines
+🎨 Sketching and digital layout rendering
+🧠 Experimenting with emerging deep learning kernels

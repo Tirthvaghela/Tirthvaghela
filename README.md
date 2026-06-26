@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tirth Vaghela
+#  Tirth Vaghela
 
 <a href="https://tirthvaghela.in/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/tirthvaghela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -23,28 +23,27 @@
 
 ### 🛠️ Tech Stack & Ecosystem
 
-Using standard markdown text grids can sometimes look scattered. This unified visual icon group keeps things perfectly scannable and standardized.
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,dart" alt="Languages" />
-  <br/>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css" alt="Frontend" />
-  <br/>
-  <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi,mongodb,mysql,sqlite" alt="Backend & Databases" />
-  <br/>
-  <!-- Tools & Vision -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,opencv" alt="Tools & Vision" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend & DB</b></td>
+    <td align="center" width="25%"><b>Tools & Vision</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,dart" alt="Languages" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" alt="Frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi,mongodb,mysql" alt="Backend & DB" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,opencv" alt="Tools & Vision" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 Featured Deployments & Systems
 
 > [!NOTE]
-> Below are engineered applications prioritizing scalable architecture, computer vision models, and robust auth patterns.
+> Production-ready applications prioritizing scalable architecture, computer vision models, and secure auth patterns.
 
 <table>
   <tr>
@@ -69,18 +68,11 @@ Using standard markdown text grids can sometimes look scattered. This unified vi
 
 ---
 
-### 📈 GitHub Analytics & Engine Room
-
-Aligning your dynamic analytical data cards horizontally keeps the profile looking compact and intentionally structured.
+### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tirthvaghela&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthvaghela&layout=compact&theme=github_dark&hide_border=true" width="45%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Optional: Streak card to showcase developer consistency -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirthvaghela&theme=github_dark&hide_border=true" width="94%" alt="GitHub Streak" />
 </p>
 
 ---

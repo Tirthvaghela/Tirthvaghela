@@ -76,27 +76,6 @@ Instead of just listing tools, here is how I categorize my technical stack to bu
 * **The Engineering Solution:** Engineered a deep biometric indexing system. It extracts distinct facial embeddings from raw bulk directories, maps them mathematically into structured clusters using Face Recognition architectures, and allows immediate sub-second image filtering based on a single reference face query.
 * **Stack:** `Flask` · `DeepFace` · `ArcFace` · `SQLite`
 
----
-
-> [!IMPORTANT]
-> ### 🌐 Advanced Full-Stack & Distributed Architectures
-
-### 🌪️ VibeStream — *Reactive Social Micro-Network*
-* **The Core Problem:** Social streams can experience high latency and security vulnerabilities if state management and session validation layers are poorly optimized.
-* **The Engineering Solution:** Designed a complete social ecosystem featuring customized multi-relational user follow matrices, a dynamically structured home feed algorithm, and cryptographically signed stateless JWT authorization gateways to defend user sessions.
-* **Stack:** `React (Vite)` · `FastAPI` · `MongoDB` · `Tailwind CSS`
-
-### 🗳️ Electrox Ecosystem — *Secure Parallel Ledger Voting System*
-* **The Core Problem:** Digital voting solutions require absolute immutability, role-isolated control barriers, and transparent audit visibility.
-* **The Engineering Solution:** Created a unified web-and-mobile voting hub. Implemented role-based access controllers (RBAC) separating administrative lifecycle handlers from basic voter states, complete with granular analytical logging engines to prevent unauthorized modifications.
-* **Stack:** `Flutter` · `React` · `Node.js` · `Flask` · `MongoDB`
-
-### 🗺️ CivicWatch — *Crowdsourced Public Infrastructure Registry*
-* **The Core Problem:** Public service platforms lack clean, transparent tracking lines between citizen reports and direct resolution workflows.
-* **The Engineering Solution:** Programmed a localized civic-tech system allowing citizens to instantly log public sanitation or maintenance issues. Features geographic metadata attachment via photo evidence, live priority status queues, and an administrative dashboard keeping updates fully verifiable.
-* **Stack:** `React` · `Node.js` · `Express` · `MongoDB`
-
----
 
 ## 📈 Platform Metrics & System Analytics
 

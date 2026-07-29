@@ -256,7 +256,6 @@ Grocery marketplace with persistent customer accounts, a shopping cart and wishl
 🎬 Video Editing &nbsp;·&nbsp; 🎨 Drawing &nbsp;·&nbsp; 🎸 Guitar &nbsp;·&nbsp; 🧠 Exploring New Tech &nbsp;·&nbsp; 🎵 Music While Coding
 
 <br/>
-
 <img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/footer.svg" width="100%"/>
 
 </div>

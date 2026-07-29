@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Tirth%20Vaghela&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Full-Stack+Systems;Computer+Vision+%C2%B7+LLMs+%C2%B7+Real-Time+Apps;Turning+Messy+Problems+Into+Shipped+Products" alt="Typing SVG" />
 
@@ -231,16 +231,11 @@ Grocery marketplace with persistent customer accounts, a shopping cart and wishl
 ### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tirthvaghela&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=8E2DE2&icon_color=4A00E0" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Tirthvaghela&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=4A00E0" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&theme=react-dark&hide_border=true&bg_color=0d1117&color=8E2DE2&line=4A00E0&point=ffffff" width="97%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tirthvaghela&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -262,6 +257,6 @@ Grocery marketplace with persistent customer accounts, a shopping cart and wishl
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/footer.svg" width="100%"/>
 
 </div>

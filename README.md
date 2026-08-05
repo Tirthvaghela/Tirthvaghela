@@ -26,7 +26,7 @@
 ```yaml
 name: Tirth Vaghela
 role: Full-Stack Developer & AI/ML Engineer
-studying: Integrated M.Sc IT, 4th Year @ GLS University, Ahmedabad
+studying: Integrated M.Sc IT, 5th Year @ GLS University, Ahmedabad
 
 currently_building: >
   VoiceForm AI — a multilingual (English/Hindi/Gujarati) voice-driven

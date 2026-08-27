@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/banner.svg" width="100%" alt="Tirth Vaghela Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Full-Stack+Systems;Computer+Vision+%C2%B7+LLMs+%C2%B7+Real-Time+Apps;Turning+Messy+Problems+Into+Shipped+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Full-Stack+Systems;Computer+Vision+%C2%B7+LLMs+%C2%B7+Real-Time+Apps;Turning+Messy+Problems+Into+Shipped+Products" alt="Typing SVG"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tirthvaghela.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirthvaghela/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tirthvaghela)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaghelatirth719@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://tirthvaghela.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tirthvaghela/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Tirthvaghela)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vaghelatirth719@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Tirthvaghela&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -26,24 +26,39 @@
 ```yaml
 name: Tirth Vaghela
 role: Full-Stack Developer & AI/ML Engineer
-studying: Integrated M.Sc IT, 5th Year @ GLS University, Ahmedabad
+education: Integrated M.Sc IT — GLS University, Ahmedabad
 
-currently_building: >
-  VoiceForm AI — a multilingual (English/Hindi/Gujarati) voice-driven
-  form-filling platform. OCR + LLMs + speech-to-text turn any paper
-  or PDF form into a spoken conversation, then write the answers
-  back onto the original layout.
+currently_building:
+  - VoiceForm AI
+  - AI-powered document & form processing systems
 
-focus:
-  - computer vision pipelines (YOLO, OpenCV) shipped as real products
-  - LLM-backed systems that speak, not just chat
-  - full-stack architecture end to end
+specialization:
+  - Computer Vision
+  - LLM-powered applications
+  - OCR & document intelligence
+  - Full-stack system architecture
+  - Real-time applications
 
-ask_me_about: [system design, CV pipelines, shipping side projects fast]
-fun_fact: edits video and plays guitar between deploys
+tech_focus:
+  - Python
+  - TypeScript / JavaScript
+  - React / Next.js
+  - Flask / FastAPI / Django
+  - OpenCV / YOLO
+  - LLMs / OCR
+
+ask_me_about:
+  - AI system design
+  - Computer Vision pipelines
+  - Full-stack development
+  - Shipping AI products
+
+fun_fact:
+  edits videos and plays guitar between deploys
 ```
 
 </td>
+
 <td width="40%" valign="top">
 
 ### 🖥️ terminal
@@ -56,13 +71,15 @@ $ cat status.txt
 [ONLINE] shipping code
 
 $ ./run --project=VoiceForm-AI
-> OCR........... [OK]
-> LLM-dialogue... [OK]
-> voice-loop..... [OK]
-> status: LIVE
 
-$ echo $MOOD
-"caffeinated & building"
+> document-vision [OK]
+> OCR........... [OK]
+> LLM-dialogue.. [OK]
+> voice-loop.... [OK]
+> form-writing.. [OK]
+
+$ echo $STATUS
+"building systems, not demos"
 ```
 
 </td>
@@ -71,181 +88,375 @@ $ echo $MOOD
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I'm Building
+
+### 🎙️ VoiceForm AI
+
+**Multilingual AI-powered form filling**
+
+Turn paper/PDF forms into a conversational experience using **OCR + Computer Vision + LLMs + Speech-to-Text**.
+
+```text
+Paper / PDF
+     │
+     ▼
+┌───────────────┐
+│ Document      │
+│ Understanding │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ OCR + Vision  │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ LLM Dialogue  │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ Voice Input   │
+│ English/Hindi │
+│ Gujarati      │
+└───────┬───────┘
+        ▼
+┌───────────────┐
+│ Form Filling  │
+└───────────────┘
+```
+
+**Core technologies**
+
+`Python` · `Computer Vision` · `OCR` · `LLMs` · `Speech-to-Text` · `Document Processing`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,flutter,html,css,django,flask,nodejs,mongodb,mysql,sqlite,git,github,vercel,dart,php&theme=dark" />
+
 </div>
 
+<br/>
+
 <table align="center">
-  <tr>
-    <td valign="top" width="25%">
-      <b>🧠 Languages</b>
-      <ul>
-        <li>Python</li>
-        <li>JavaScript / TypeScript</li>
-        <li>SQL</li>
-        <li>Dart · PHP</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <b>🎨 Frontend</b>
-      <ul>
-        <li>React · Next.js</li>
-        <li>Tailwind CSS</li>
-        <li>Flutter</li>
-        <li>HTML / CSS</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <b>⚙️ Backend</b>
-      <ul>
-        <li>Django · Flask</li>
-        <li>Node.js · FastAPI</li>
-        <li>REST APIs</li>
-        <li>JWT Auth</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <b>📦 Databases & Tools</b>
-      <ul>
-        <li>MongoDB · MySQL · SQLite</li>
-        <li>OpenCV · YOLOv8 · YOLOv4</li>
-        <li>DeepFace · ArcFace · OCR</li>
-        <li>Git · GitHub · Vercel</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+
+<td valign="top" width="25%">
+
+<b>🧠 Languages</b>
+
+<ul>
+<li>Python</li>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>SQL</li>
+<li>Dart</li>
+<li>PHP</li>
+</ul>
+
+</td>
+
+<td valign="top" width="25%">
+
+<b>🎨 Frontend</b>
+
+<ul>
+<li>React</li>
+<li>Next.js</li>
+<li>Tailwind CSS</li>
+<li>Flutter</li>
+<li>HTML / CSS</li>
+</ul>
+
+</td>
+
+<td valign="top" width="25%">
+
+<b>⚙️ Backend</b>
+
+<ul>
+<li>FastAPI</li>
+<li>Flask</li>
+<li>Django</li>
+<li>Node.js</li>
+<li>REST APIs</li>
+<li>JWT Authentication</li>
+</ul>
+
+</td>
+
+<td valign="top" width="25%">
+
+<b>🤖 AI / Data</b>
+
+<ul>
+<li>OpenCV</li>
+<li>YOLOv4 / YOLOv8</li>
+<li>OCR</li>
+<li>DeepFace</li>
+<li>ArcFace</li>
+<li>LLM APIs</li>
+</ul>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-### 🤖 AI & Computer Vision
+## 🤖 AI & Computer Vision Projects
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-**🚥 Urban Signal**
-*AI Traffic Management Platform*
+### 🚦 Urban Signal
 
-Real-time signal optimization from live intersection congestion metrics. Detects emergency vehicles and grants instant priority routing overrides.
+**AI Traffic Management Platform**
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
-![YOLOv4](https://img.shields.io/badge/-YOLOv4-8E2DE2?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+Real-time traffic signal optimization using intersection congestion data.
+
+Also detects emergency vehicles and provides priority routing overrides.
+
+`Next.js` · `Flask` · `YOLOv4` · `OpenCV`
 
 </td>
+
 <td width="33%" valign="top">
 
-**🏍️ RIGS**
-*Road Infraction Governance System*
+### 🏍️ RIGS
 
-Automated helmet-compliance monitoring for two-wheelers. Detects violations, crops the plate, and runs OCR to auto-generate e-challans.
+**Road Infraction Governance System**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-8E2DE2?style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![OCR](https://img.shields.io/badge/-OCR-4A00E0?style=flat-square)
+Automated helmet-compliance monitoring for two-wheelers.
+
+Detects violations → crops license plates → performs OCR → generates e-challans.
+
+`React` · `YOLOv8` · `Node.js` · `OCR`
 
 </td>
+
 <td width="33%" valign="top">
 
-**📸 Wedding Face Finder**
-*Biometric Image Indexing Engine*
+### 📸 Wedding Face Finder
 
-Sub-second face search across large, unsorted photo collections — extracts embeddings and clusters them for instant lookup.
+**Biometric Image Search Engine**
 
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
-![DeepFace](https://img.shields.io/badge/-DeepFace-4A00E0?style=flat-square)
-![ArcFace](https://img.shields.io/badge/-ArcFace-8E2DE2?style=flat-square)
+Indexes large, unorganized photo collections using face embeddings.
+
+Supports fast face search and clustering.
+
+`Flask` · `DeepFace` · `ArcFace`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 🌐 Full-Stack Web & Mobile
+## 🌐 Full-Stack Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**🗳️ Electrox Ecosystem**
-*Web & Mobile Voting Platform*
+### 🗳️ Electrox Ecosystem
 
-Multi-platform digital voting system covering the full election lifecycle, with role-based access control and a live analytics dashboard for administrators.
+**Web & Mobile Voting Platform**
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Multi-platform voting system covering the complete election lifecycle.
+
+Features:
+
+* Role-based access control
+* Election management
+* Candidate management
+* Live analytics
+* Web + mobile clients
+
+`Flutter` · `React` · `Node.js` · `Flask` · `MongoDB`
 
 </td>
+
 <td width="50%" valign="top">
 
-**🌪️ Vois**
-*Social Media Engine*
+### 🌪️ Vois
 
-Real-time social feed with a follow system, personalized content stream, and JWT-secured authentication.
+**Social Media Engine**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Real-time social platform with:
+
+* Follow system
+* Personalized feed
+* JWT authentication
+* User accounts
+* REST APIs
+
+`React` · `FastAPI` · `MongoDB`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-**📅 EventEase**
-*College Event Management System*
+### 📅 EventEase
 
-End-to-end event registration pipeline with per-event capacity limits and automated confirmation emails, built on a REST API core.
+**College Event Management System**
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST](https://img.shields.io/badge/-REST%20APIs-8E2DE2?style=flat-square)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+End-to-end event registration platform with:
+
+* Event capacity limits
+* Registration management
+* REST APIs
+* Automated confirmation emails
+
+`Django` · `REST API` · `SQLite`
 
 </td>
+
 <td width="50%" valign="top">
 
-**🛒 FreshVault**
-*Local Grocery E-Commerce Platform*
+### 🛒 FreshVault
 
-Grocery marketplace with persistent customer accounts, a shopping cart and wishlist, and admin-managed inventory.
+**Local Grocery E-Commerce Platform**
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+Grocery marketplace with:
+
+* Customer accounts
+* Shopping cart
+* Wishlist
+* Inventory management
+* Admin dashboard
+
+`PHP` · `MySQL` · `Tailwind CSS`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 📈 GitHub Metrics
+## 🧠 Engineering Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tirthvaghela&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=4A00E0" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&theme=react-dark&hide_border=true&bg_color=0d1117&color=8E2DE2&line=4A00E0&point=ffffff" width="97%" alt="Activity Graph"/>
-</p>
+```text
+┌──────────────────────────────────────────────────────┐
+│                  WHAT I LIKE BUILDING                │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  👁️ Computer Vision                                 │
+│     YOLO · OpenCV · OCR · Face Embeddings            │
+│                                                      │
+│  🧠 LLM Applications                                 │
+│     AI Agents · Structured Output · RAG · NLP        │
+│                                                      │
+│  🎙️ Multimodal Systems                              │
+│     Voice · Vision · Documents · LLMs               │
+│                                                      │
+│  ⚡ Full-Stack Systems                               │
+│     React · Next.js · FastAPI · Flask · Django       │
+│                                                      │
+│  🚀 Product Engineering                              │
+│     From prototype → architecture → deployment       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 👔 Experience
+## 📊 GitHub Metrics
 
-⚡ **Full-Stack Web Development Intern** — *Prodigy InfoTech (Remote | Feb 2026)*
-* Built modular, responsive frontend views with semantic HTML/CSS, ensuring consistent scaling across layouts.
-* Developed backend routes and integrated REST APIs, reducing payload overhead and render delays.
-* Implemented token-based authentication middleware to secure user data and API endpoints.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tirthvaghela&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=ffffff&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthvaghela&layout=compact&hide_border=true&bg_color=0d1117&title_color=8E2DE2&text_color=ffffff&langs_count=8" width="48%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Tirthvaghela&theme=dark&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" width="70%" alt="GitHub Streak"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&theme=react-dark&hide_border=true&bg_color=0d1117&color=8E2DE2&line=8E2DE2&point=ffffff&area=true&custom_title=Tirth%20Vaghela%20—%20Contribution%20Activity" width="97%" alt="GitHub Contribution Activity"/>
+
+</a>
+
+</div>
+
+> **Note:** The activity graph now uses the project's current canonical Vercel deployment.
+
+---
+
+## 💼 Experience
+
+### ⚡ Full-Stack Web Development Intern
+
+**Prodigy InfoTech** · Remote · Feb 2026
+
+* Built modular and responsive frontend interfaces using semantic HTML/CSS.
+* Developed backend routes and integrated REST APIs.
+* Implemented token-based authentication middleware.
+* Improved API payload handling and application responsiveness.
+* Worked across frontend and backend components of production-oriented web applications.
+
+---
+
+## 🎯 Currently Learning
+
+```text
+AI Engineering
+├── LLM application architecture
+├── Multimodal AI
+├── RAG pipelines
+├── AI agents
+└── Evaluation & reliability
+
+Computer Vision
+├── Object detection
+├── Document understanding
+├── OCR pipelines
+├── Vision-language models
+└── Real-world deployment
+
+Software Engineering
+├── System design
+├── Scalable APIs
+├── Production architecture
+├── Testing
+└── CI/CD
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tirthvaghela.in-8E2DE2?style=for-the-badge\&logo=vercel\&logoColor=white)](https://tirthvaghela.in/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Vaghela-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tirthvaghela/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Tirthvaghela-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Tirthvaghela)
+
+[![Email](https://img.shields.io/badge/Email-vaghelatirth719%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vaghelatirth719@gmail.com)
+
+</div>
 
 ---
 
@@ -253,9 +464,14 @@ Grocery marketplace with persistent customer accounts, a shopping cart and wishl
 
 ### 🎨 Outside of Code
 
-🎬 Video Editing &nbsp;·&nbsp; 🎨 Drawing &nbsp;·&nbsp; 🎸 Guitar &nbsp;·&nbsp; 🧠 Exploring New Tech &nbsp;·&nbsp; 🎵 Music While Coding
+🎬 Video Editing  · 
+🎨 Drawing  · 
+🎸 Guitar  · 
+🧠 Exploring New Tech  · 
+🎵 Music While Coding
 
-<br/>
-<img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/footer.svg" width="100%"/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/footer.svg" width="100%" alt="Footer"/>
 
 </div>

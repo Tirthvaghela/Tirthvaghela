@@ -19,6 +19,7 @@
 
 <table>
 <tr>
+
 <td width="60%" valign="top">
 
 ### 👋 About Me
@@ -30,27 +31,28 @@ education: Integrated M.Sc IT — GLS University, Ahmedabad
 
 currently_building:
   - VoiceForm AI
-  - AI-powered document & form processing systems
+  - AI-powered document processing systems
+  - Multimodal AI applications
 
 specialization:
   - Computer Vision
   - LLM-powered applications
-  - OCR & document intelligence
-  - Full-stack system architecture
-  - Real-time applications
+  - OCR & Document Intelligence
+  - Full-Stack Development
+  - Real-Time Applications
 
 tech_focus:
   - Python
   - TypeScript / JavaScript
   - React / Next.js
-  - Flask / FastAPI / Django
+  - FastAPI / Flask / Django
   - OpenCV / YOLO
   - LLMs / OCR
 
 ask_me_about:
   - AI system design
   - Computer Vision pipelines
-  - Full-stack development
+  - Full-stack architecture
   - Shipping AI products
 
 fun_fact:
@@ -83,50 +85,71 @@ $ echo $STATUS
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Currently Building
+
+<table>
+<tr>
+
+<td width="100%" valign="top">
 
 ### 🎙️ VoiceForm AI
 
 **Multilingual AI-powered form filling**
 
-Turn paper/PDF forms into a conversational experience using **OCR + Computer Vision + LLMs + Speech-to-Text**.
+VoiceForm AI transforms paper and PDF forms into an interactive voice conversation.
+
+Instead of manually reading and filling complex forms, users can simply **talk to the system**.
 
 ```text
-Paper / PDF
-     │
-     ▼
-┌───────────────┐
-│ Document      │
-│ Understanding │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ OCR + Vision  │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ LLM Dialogue  │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ Voice Input   │
-│ English/Hindi │
-│ Gujarati      │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ Form Filling  │
-└───────────────┘
+              PAPER / PDF FORM
+                     │
+                     ▼
+             ┌───────────────┐
+             │ Document      │
+             │ Understanding │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ OCR + Vision  │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ LLM Dialogue  │
+             └───────┬───────┘
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       English      Hindi    Gujarati
+          │          │          │
+          └──────────┼──────────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ Voice Input   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │ Form Writing  │
+             └───────────────┘
 ```
 
-**Core technologies**
+**Core Technologies**
 
 `Python` · `Computer Vision` · `OCR` · `LLMs` · `Speech-to-Text` · `Document Processing`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -207,7 +230,7 @@ Paper / PDF
 
 ---
 
-## 🤖 AI & Computer Vision Projects
+## 🤖 AI & Computer Vision
 
 <table>
 <tr>
@@ -218,9 +241,11 @@ Paper / PDF
 
 **AI Traffic Management Platform**
 
-Real-time traffic signal optimization using intersection congestion data.
+Real-time traffic signal optimization using live intersection congestion metrics.
 
-Also detects emergency vehicles and provides priority routing overrides.
+Detects emergency vehicles and provides priority routing overrides.
+
+**Stack**
 
 `Next.js` · `Flask` · `YOLOv4` · `OpenCV`
 
@@ -234,7 +259,21 @@ Also detects emergency vehicles and provides priority routing overrides.
 
 Automated helmet-compliance monitoring for two-wheelers.
 
-Detects violations → crops license plates → performs OCR → generates e-challans.
+```text
+Vehicle Detection
+       ↓
+Helmet Detection
+       ↓
+Violation Detection
+       ↓
+Number Plate Crop
+       ↓
+OCR
+       ↓
+E-Challan
+```
+
+**Stack**
 
 `React` · `YOLOv8` · `Node.js` · `OCR`
 
@@ -246,9 +285,11 @@ Detects violations → crops license plates → performs OCR → generates e-cha
 
 **Biometric Image Search Engine**
 
-Indexes large, unorganized photo collections using face embeddings.
+Searches large, unsorted photo collections using face embeddings.
 
-Supports fast face search and clustering.
+Extracts facial embeddings and clusters similar faces for fast lookup.
+
+**Stack**
 
 `Flask` · `DeepFace` · `ArcFace`
 
@@ -270,15 +311,18 @@ Supports fast face search and clustering.
 
 **Web & Mobile Voting Platform**
 
-Multi-platform voting system covering the complete election lifecycle.
+Multi-platform digital voting system covering the complete election lifecycle.
 
-Features:
+**Features**
 
 * Role-based access control
 * Election management
 * Candidate management
-* Live analytics
+* Voting workflow
+* Live analytics dashboard
 * Web + mobile clients
+
+**Stack**
 
 `Flutter` · `React` · `Node.js` · `Flask` · `MongoDB`
 
@@ -290,13 +334,17 @@ Features:
 
 **Social Media Engine**
 
-Real-time social platform with:
+Real-time social platform with personalized content delivery.
 
+**Features**
+
+* User accounts
 * Follow system
 * Personalized feed
 * JWT authentication
-* User accounts
 * REST APIs
+
+**Stack**
 
 `React` · `FastAPI` · `MongoDB`
 
@@ -312,12 +360,16 @@ Real-time social platform with:
 
 **College Event Management System**
 
-End-to-end event registration platform with:
+End-to-end event registration platform.
 
-* Event capacity limits
-* Registration management
+**Features**
+
+* Event registration
+* Capacity management
 * REST APIs
 * Automated confirmation emails
+
+**Stack**
 
 `Django` · `REST API` · `SQLite`
 
@@ -329,13 +381,17 @@ End-to-end event registration platform with:
 
 **Local Grocery E-Commerce Platform**
 
-Grocery marketplace with:
+Full-stack grocery marketplace.
+
+**Features**
 
 * Customer accounts
 * Shopping cart
 * Wishlist
 * Inventory management
-* Admin dashboard
+* Admin management
+
+**Stack**
 
 `PHP` · `MySQL` · `Tailwind CSS`
 
@@ -353,20 +409,20 @@ Grocery marketplace with:
 │                  WHAT I LIKE BUILDING                │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│  👁️ Computer Vision                                 │
+│  👁️ COMPUTER VISION                                  │
 │     YOLO · OpenCV · OCR · Face Embeddings            │
 │                                                      │
-│  🧠 LLM Applications                                 │
-│     AI Agents · Structured Output · RAG · NLP        │
+│  🧠 LLM APPLICATIONS                                 │
+│     LLMs · NLP · RAG · AI Agents · Structured Output │
 │                                                      │
-│  🎙️ Multimodal Systems                              │
+│  🎙️ MULTIMODAL AI                                    │
 │     Voice · Vision · Documents · LLMs               │
 │                                                      │
-│  ⚡ Full-Stack Systems                               │
+│  ⚡ FULL-STACK SYSTEMS                               │
 │     React · Next.js · FastAPI · Flask · Django       │
 │                                                      │
-│  🚀 Product Engineering                              │
-│     From prototype → architecture → deployment       │
+│  🚀 PRODUCT ENGINEERING                              │
+│     Prototype → Architecture → Deployment            │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
@@ -377,29 +433,9 @@ Grocery marketplace with:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tirthvaghela&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=ffffff&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthvaghela&layout=compact&hide_border=true&bg_color=0d1117&title_color=8E2DE2&text_color=ffffff&langs_count=8" width="48%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Tirthvaghela&theme=dark&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" width="70%" alt="GitHub Streak"/>
+<img src="./profile/github-metrics.svg" width="97%" alt="GitHub Metrics"/>
 
 </div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&theme=react-dark&hide_border=true&bg_color=0d1117&color=8E2DE2&line=8E2DE2&point=ffffff&area=true&custom_title=Tirth%20Vaghela%20—%20Contribution%20Activity" width="97%" alt="GitHub Contribution Activity"/>
-
-</a>
-
-</div>
-
-> **Note:** The activity graph now uses the project's current canonical Vercel deployment.
 
 ---
 
@@ -419,28 +455,50 @@ Grocery marketplace with:
 
 ## 🎯 Currently Learning
 
-```text
-AI Engineering
-├── LLM application architecture
-├── Multimodal AI
-├── RAG pipelines
-├── AI agents
-└── Evaluation & reliability
+<table>
+<tr>
 
-Computer Vision
-├── Object detection
-├── Document understanding
-├── OCR pipelines
-├── Vision-language models
-└── Real-world deployment
+<td width="33%" valign="top">
 
-Software Engineering
-├── System design
-├── Scalable APIs
-├── Production architecture
-├── Testing
-└── CI/CD
-```
+### 🧠 AI Engineering
+
+* LLM application architecture
+* Multimodal AI
+* RAG pipelines
+* AI agents
+* Evaluation & reliability
+* Structured generation
+
+</td>
+
+<td width="33%" valign="top">
+
+### 👁️ Computer Vision
+
+* Object detection
+* Document understanding
+* OCR pipelines
+* Vision-language models
+* Face recognition
+* Real-world deployment
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Software Engineering
+
+* System design
+* Scalable APIs
+* Production architecture
+* Testing
+* CI/CD
+* Cloud deployment
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -464,10 +522,14 @@ Software Engineering
 
 ### 🎨 Outside of Code
 
-🎬 Video Editing  · 
-🎨 Drawing  · 
-🎸 Guitar  · 
-🧠 Exploring New Tech  · 
+🎬 Video Editing
+ · 
+🎨 Drawing
+ · 
+🎸 Guitar
+ · 
+🧠 Exploring New Tech
+ · 
 🎵 Music While Coding
 
 <br/><br/>

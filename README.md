@@ -1,90 +1,64 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/Tirthvaghela/Tirthvaghela/main/banner-light.svg" width="100%" alt="Tirth Vaghela — Full-Stack Developer & AI/ML Engineer">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" width="100%" alt="Tirth Vaghela — Full-Stack Developer & AI/ML Engineer">
 </picture>
 
 <p>
-  <a href="https://tirthvaghela.in/">Portfolio ↗</a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tirthvaghela/">LinkedIn ↗</a> &nbsp;&nbsp;
-  <a href="https://github.com/Tirthvaghela">GitHub ↗</a> &nbsp;&nbsp;
-  <a href="mailto:vaghelatirth719@gmail.com">Email ↗</a>
+<a href="https://tirthvaghela.in/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img src="assets/link-portfolio-light.svg" width="150" alt="Portfolio"></picture></a>
+<a href="https://www.linkedin.com/in/tirthvaghela/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" width="150" alt="Linkedin"></picture></a>
+<a href="https://github.com/Tirthvaghela"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-github-dark.svg"><img src="assets/link-github-light.svg" width="150" alt="Github"></picture></a>
+<a href="mailto:vaghelatirth719@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" width="150" alt="Email"></picture></a>
 </p>
 
-<br>
+<br><br>
 
-### 01 &nbsp;—&nbsp; About
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About: full-stack developer and AI/ML engineer from Ahmedabad, final year Int. M.Sc IT at GLS University"></picture>
 
-Full-stack developer and AI/ML engineer, in the final year of an Integrated M.Sc IT
-at GLS University, Ahmedabad.
+<br><br>
 
-I take AI out of the notebook and into real products: computer-vision pipelines
-that run on live video, LLM systems that *talk* instead of just chat, and the
-full-stack plumbing that holds it together.
+<a href="https://github.com/Tirthvaghela/VoiceForm.Ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><img src="assets/now-light.svg" width="100%" alt="Now building VoiceForm AI: voice-driven multilingual form filling (English, Hindi, Gujarati)"></picture></a>
 
-<sub>Happy to talk about system design, CV pipelines, and shipping side projects fast.</sub>
+<br><br>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><img src="assets/work-light.svg" width="100%" alt="Selected work"></picture>
 
-### 02 &nbsp;—&nbsp; Now
+<p>
+<a href="https://github.com/Tirthvaghela/Urban_Signal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-01-dark.svg"><img src="assets/project-01-light.svg" width="49%" alt="Urban Signal"></picture></a>
+<a href="https://github.com/Tirthvaghela/RIGS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-02-dark.svg"><img src="assets/project-02-light.svg" width="49%" alt="RIGS"></picture></a>
+</p>
 
-**VoiceForm AI** &nbsp;<sub>in progress</sub>
+<p>
+<a href="https://github.com/Tirthvaghela/Wedding-Face-Finder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-03-dark.svg"><img src="assets/project-03-light.svg" width="49%" alt="Wedding Face Finder"></picture></a>
+<a href="https://github.com/Tirthvaghela/Electrox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-04-dark.svg"><img src="assets/project-04-light.svg" width="49%" alt="Electrox"></picture></a>
+</p>
 
-Fill any form just by talking. VoiceForm AI reads a paper or PDF form, turns it
-into a spoken conversation in English, Hindi or Gujarati, and writes the answers
-back onto the original layout.
+<p>
+<a href="https://github.com/Tirthvaghela/Vois"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-05-dark.svg"><img src="assets/project-05-light.svg" width="49%" alt="Vois"></picture></a>
+<a href="https://github.com/Tirthvaghela/EventEase"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-06-dark.svg"><img src="assets/project-06-light.svg" width="49%" alt="EventEase"></picture></a>
+</p>
 
-```
-paper / pdf  →  ocr  →  llm dialogue  ⇄  speech (en · hi · gu)  →  filled form
-```
+<p>
+<a href="https://github.com/Tirthvaghela/FreshValut"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-07-dark.svg"><img src="assets/project-07-light.svg" width="49%" alt="FreshVault"></picture></a>
+<a href="https://github.com/Tirthvaghela?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-more-dark.svg"><img src="assets/project-more-light.svg" width="49%" alt="More on GitHub"></picture></a>
+</p>
 
-<br>
+<br><br>
 
-### 03 &nbsp;—&nbsp; Selected Work
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg"><img src="assets/toolkit-light.svg" width="100%" alt="Toolkit: Python, JavaScript, TypeScript, React, Next.js, Flask, FastAPI, Django, MongoDB, YOLOv8, OpenCV and more"></picture>
 
-| | Project | What it does | Built with |
-|:--|:--|:--|:--|
-| `01` | **Urban Signal**<br><sub>Traffic AI</sub> | Retimes signals from live intersection congestion; detects emergency vehicles and gives them priority. | <sub>Next.js · Flask · YOLOv4 · OpenCV</sub> |
-| `02` | **RIGS**<br><sub>Road safety</sub> | Spots riders without helmets, reads the number plate with OCR, and issues an e-challan automatically. | <sub>React · Node.js · YOLOv8 · OCR</sub> |
-| `03` | **Wedding Face Finder**<br><sub>Image search</sub> | Finds every photo of one person in a huge unsorted collection in under a second. | <sub>Flask · DeepFace · ArcFace</sub> |
-| `04` | **Electrox**<br><sub>Voting platform</sub> | Web + mobile elections end to end, with role-based access and a live admin dashboard. | <sub>Flutter · React · Node.js · Flask · MongoDB</sub> |
-| `05` | **Vois**<br><sub>Social media</sub> | Real-time feed with follows, a personalised stream, and JWT auth. | <sub>React · FastAPI · MongoDB</sub> |
-| `06` | **EventEase**<br><sub>College events</sub> | Event registration with capacity limits and automatic confirmation emails. | <sub>Django · REST · SQLite</sub> |
-| `07` | **FreshVault**<br><sub>E-commerce</sub> | Local grocery store with accounts, cart, wishlist, and admin inventory. | <sub>PHP · MySQL · Tailwind</sub> |
+<br><br>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><img src="assets/experience-light.svg" width="100%" alt="Experience: Full-Stack Web Development Intern at Prodigy InfoTech, Feb 2026"></picture>
 
-### 04 &nbsp;—&nbsp; Toolkit
+<br><br>
 
-```
-languages     python   javascript   typescript   sql   dart   php
-frontend      react   next.js   tailwind   flutter   html/css
-backend       django   flask   fastapi   node.js   rest   jwt
-data          mongodb   mysql   sqlite
-ai / vision   yolov8   yolov4   opencv   deepface   arcface   ocr   llms
-tools         git   github   vercel
-```
-
-<br>
-
-### 05 &nbsp;—&nbsp; Experience
-
-**Full-Stack Web Development Intern** · Prodigy InfoTech &nbsp;<sub>Feb 2026 · Remote</sub>
-
-Built responsive, modular frontends in semantic HTML/CSS; wrote backend routes
-and REST integrations that cut payload size and render time; added token-based
-auth middleware to secure user data and APIs.
-
-<br>
-
-### 06 &nbsp;—&nbsp; Activity
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><img src="assets/activity-light.svg" width="100%" alt="Activity"></picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&hide_border=true&bg_color=0d1117&color=7d8590&line=FF4F00&point=f0f0f0&title_color=f0f0f0&area=false&custom_title=Contributions">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&hide_border=true&bg_color=ffffff&color=8a8a8a&line=FF4F00&point=111111&title_color=111111&area=false&custom_title=Contributions" width="100%" alt="Contribution activity">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&hide_border=true&hide_title=true&area=false&line=FF4F00&bg_color=0d1117&color=7d8590&point=f0f0f0">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirthvaghela&hide_border=true&hide_title=true&area=false&line=FF4F00&bg_color=ffffff&color=8a8a8a&point=111111" width="100%" alt="Contribution graph">
 </picture>
 
-<br>
+<br><br>
 
----
-
-<sub>Off the keyboard: video editing, drawing, guitar, and music while coding.</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="100%" alt="Off the keyboard: video editing, drawing, guitar, and music while coding"></picture>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <style>
+    .meta { font: 500 15px 'SF Mono', 'Cascadia Code', Consolas, 'Courier New', monospace; fill: #7D8590; letter-spacing: 2px; }
+    .name { font: 400 104px Georgia, 'Times New Roman', 'Iowan Old Style', serif; fill: #F0F0F0; letter-spacing: -3px; }
+    .line { font: 400 26px 'Helvetica Neue', 'Segoe UI', Arial, sans-serif; fill: #9DA5AE; }
+    .em   { fill: #F0F0F0; font-style: italic; font-family: Georgia, 'Times New Roman', serif; }
+    .rule { stroke: #30363D; stroke-width: 1; }
+  </style>
+
+  <text x="40" y="44" class="meta">AHMEDABAD, IN</text>
+  <text x="1160" y="44" class="meta" text-anchor="end">FULL-STACK · AI / ML</text>
+  <line x1="40" y1="64" x2="1160" y2="64" class="rule"/>
+
+  <text x="34" y="196" class="name">Tirth Vaghela<tspan fill="#FF4F00">.</tspan></text>
+
+  <text x="40" y="250" class="line">I build software that <tspan class="em">sees</tspan>, <tspan class="em">listens</tspan> and <tspan class="em">speaks</tspan>.</text>
+
+  <line x1="40" y1="290" x2="1160" y2="290" class="rule"/>
+  <text x="40" y="320" class="meta">NOW — VOICEFORM AI</text>
+  <text x="1160" y="320" class="meta" text-anchor="end">TIRTHVAGHELA.IN</text>
+</svg>
